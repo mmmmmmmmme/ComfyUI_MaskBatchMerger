@@ -14,7 +14,8 @@ Install through ComfyUI Manager by Searching **ComfyUI Mask Batch Merger**
 ## How to use
 1. Connect the node to the output of the mask batch
 2. Click run the workflow to get the output mask
-<img width="1224" height="649" alt="截屏2026-03-30 23 07 39" src="https://github.com/user-attachments/assets/1759e800-6241-4100-9694-df27ee4dab0a" />
+<img width="1091" height="613" alt="step03 2" src="https://github.com/user-attachments/assets/597d51cb-ae5d-4f7b-ab99-0aea15cf78d5" />
+
 
 
 ## Video
