@@ -18,4 +18,4 @@ Install through ComfyUI Manager by Searching **ComfyUI Mask Batch Merger**
 
 
 ## Video
-▶ [YouTube](https://youtu.be/7s1Q5KZv5hg)
+▶ [YouTube](https://youtu.be/xSEMbjcfK0g)
